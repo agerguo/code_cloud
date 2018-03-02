@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:preference-v7:23.0.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\preference-v7-23.0.1.aar\6a7ace01604d37391e86875c452763dd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\7039a57b887492229586cda31a5f7f2c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.hejunlin.superindicatorlibray:superindicatorlibray:1.0.3] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\superindicatorlibray-1.0.3.aar\6d7620cad88d015c07ca3c92d3f6c166\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\03a38dc9fee363851fcc4b7ab16fdae4\AndroidManifest.xml:17:1-27:12
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\1586e3ad8652f6fa92fa8553a109efd7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.1.1.aar\f838ab7ce2e458b6bc30a9cebeec3052\AndroidManifest.xml:17:1-24:12
+MERGED from [:ijkplayer-java] C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\ijkplayer-java\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\765034da22836861ecad0587d2671631\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\dbe3b24171d7e5c22bdfdc4a61111f7b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\e4d0d40c6804e82ef4aeb95bf519d824\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\1d60e558c7688ce6024b7b3022cb9456\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:11:22-70
+application
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:13:5-39:19
+MERGED from [com.android.support:preference-v7:23.0.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\preference-v7-23.0.1.aar\6a7ace01604d37391e86875c452763dd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:preference-v7:23.0.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\preference-v7-23.0.1.aar\6a7ace01604d37391e86875c452763dd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\7039a57b887492229586cda31a5f7f2c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\7039a57b887492229586cda31a5f7f2c\AndroidManifest.xml:22:5-20
+MERGED from [com.hejunlin.superindicatorlibray:superindicatorlibray:1.0.3] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\superindicatorlibray-1.0.3.aar\6d7620cad88d015c07ca3c92d3f6c166\AndroidManifest.xml:11:5-15:19
+MERGED from [com.hejunlin.superindicatorlibray:superindicatorlibray:1.0.3] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\superindicatorlibray-1.0.3.aar\6d7620cad88d015c07ca3c92d3f6c166\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\03a38dc9fee363851fcc4b7ab16fdae4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\03a38dc9fee363851fcc4b7ab16fdae4\AndroidManifest.xml:25:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\1586e3ad8652f6fa92fa8553a109efd7\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\1586e3ad8652f6fa92fa8553a109efd7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.1.1.aar\f838ab7ce2e458b6bc30a9cebeec3052\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.1.1.aar\f838ab7ce2e458b6bc30a9cebeec3052\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\765034da22836861ecad0587d2671631\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\765034da22836861ecad0587d2671631\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\dbe3b24171d7e5c22bdfdc4a61111f7b\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\dbe3b24171d7e5c22bdfdc4a61111f7b\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\1d60e558c7688ce6024b7b3022cb9456\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\1d60e558c7688ce6024b7b3022cb9456\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:14:9-35
+activity#com.hejunlin.imooc_supervideo.SpalshActivity
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:20:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.hejunlin.imooc_supervideo.home.HomeActivity
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:27:9-55
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:27:19-52
+activity#com.hejunlin.imooc_supervideo.GuideActivity
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:28:9-51
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:28:19-48
+activity#com.hejunlin.imooc_supervideo.detail.DetailListActivity
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:29:9-63
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:29:19-60
+activity#com.hejunlin.imooc_supervideo.detail.AlbumDetailActivity
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:30:9-64
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:30:19-61
+activity#com.hejunlin.imooc_supervideo.player.PlayActivity
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:31:9-33:53
+	android:screenOrientation
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:33:13-50
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:32:13-48
+activity#com.hejunlin.imooc_supervideo.live.LiveActivity
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:34:9-55
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:34:19-52
+activity#com.hejunlin.imooc_supervideo.favorite.FavoriteActivity
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:35:9-36:56
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:36:13-54
+activity#com.hejunlin.imooc_supervideo.history.HistoryActivity
+ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:37:9-38:54
+	android:name
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml:38:13-52
+uses-sdk
+INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:preference-v7:23.0.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\preference-v7-23.0.1.aar\6a7ace01604d37391e86875c452763dd\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:preference-v7:23.0.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\preference-v7-23.0.1.aar\6a7ace01604d37391e86875c452763dd\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\7039a57b887492229586cda31a5f7f2c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\7039a57b887492229586cda31a5f7f2c\AndroidManifest.xml:20:5-43
+MERGED from [com.hejunlin.superindicatorlibray:superindicatorlibray:1.0.3] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\superindicatorlibray-1.0.3.aar\6d7620cad88d015c07ca3c92d3f6c166\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hejunlin.superindicatorlibray:superindicatorlibray:1.0.3] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\superindicatorlibray-1.0.3.aar\6d7620cad88d015c07ca3c92d3f6c166\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\03a38dc9fee363851fcc4b7ab16fdae4\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\03a38dc9fee363851fcc4b7ab16fdae4\AndroidManifest.xml:21:5-23:78
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\1586e3ad8652f6fa92fa8553a109efd7\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\1586e3ad8652f6fa92fa8553a109efd7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.1.1.aar\f838ab7ce2e458b6bc30a9cebeec3052\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.1.1.aar\f838ab7ce2e458b6bc30a9cebeec3052\AndroidManifest.xml:20:5-43
+MERGED from [:ijkplayer-java] C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\ijkplayer-java\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:ijkplayer-java] C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\ijkplayer-java\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\765034da22836861ecad0587d2671631\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\765034da22836861ecad0587d2671631\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\dbe3b24171d7e5c22bdfdc4a61111f7b\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\dbe3b24171d7e5c22bdfdc4a61111f7b\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\e4d0d40c6804e82ef4aeb95bf519d824\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\e4d0d40c6804e82ef4aeb95bf519d824\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\1d60e558c7688ce6024b7b3022cb9456\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\1d60e558c7688ce6024b7b3022cb9456\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\guo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\03a38dc9fee363851fcc4b7ab16fdae4\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guo\AndroidStudioProjects\MyVod\h2u71b\app\src\main\AndroidManifest.xml

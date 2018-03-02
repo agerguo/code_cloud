@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.hejunlin.superindicatorlibray:superindicatorlibray-1.0.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/superindicatorlibray-1.0.3.aar/6d7620cad88d015c07ca3c92d3f6c166/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/superindicatorlibray-1.0.3.aar/6d7620cad88d015c07ca3c92d3f6c166/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hejunlin.superindicatorlibray/superindicatorlibray/1.0.3/dd41e5d19d15799ce5cfe5697847d8a86729e54f/superindicatorlibray-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

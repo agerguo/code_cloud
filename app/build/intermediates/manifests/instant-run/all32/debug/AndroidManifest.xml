@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hejunlin.imooc_supervideo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 网络访问 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 网络状态 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- setting写入时需要权限 -->
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <application
+        android:name="com.hejunlin.imooc_supervideo.AppManager"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.hejunlin.imooc_supervideo.SpalshActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.hejunlin.imooc_supervideo.home.HomeActivity" />
+        <activity android:name="com.hejunlin.imooc_supervideo.GuideActivity" />
+        <activity android:name="com.hejunlin.imooc_supervideo.detail.DetailListActivity" />
+        <activity android:name="com.hejunlin.imooc_supervideo.detail.AlbumDetailActivity" />
+        <activity
+            android:name="com.hejunlin.imooc_supervideo.player.PlayActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name="com.hejunlin.imooc_supervideo.live.LiveActivity" />
+        <activity android:name="com.hejunlin.imooc_supervideo.favorite.FavoriteActivity" />
+        <activity android:name="com.hejunlin.imooc_supervideo.history.HistoryActivity" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.hejunlin.imooc_supervideo.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
